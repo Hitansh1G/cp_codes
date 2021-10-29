@@ -1,8 +1,6 @@
 12. copy(“char array”, len, pos) :- This function copies the substring in target character array mentioned in its arguments. It takes 3 arguments, target char array, length to be copied and starting position in string to start copying.
-13. swap() :- This function swaps one string with other.
+13. swap() :- This function swaps one string with other   uuo.
  
-// C++ code to demonstrate the working of
-// copy() and swap()
 #include<iostream>
 #include<string> // for string class
 using namespace std;
