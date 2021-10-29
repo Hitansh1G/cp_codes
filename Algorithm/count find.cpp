@@ -22,9 +22,7 @@ int main()
 
 	// find() returns iterator to last address if
 	// element not present
-	find(vect.begin(), vect.end(),5) != vect.end()?
-						cout << "\nElement found":
-					cout << "\nElement not found";
+	find(vect.begin(),vect.end(),5)!=vect.end()?cout<<"Element found":cout<<"Element not found";
 
 	return 0;
 }
